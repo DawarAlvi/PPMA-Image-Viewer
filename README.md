@@ -1,4 +1,4 @@
-# PPMA-Viewer
+# PPMA-Image-Viewer
 A simple image viewer for the ppma format written in C++ 
 
 For more info on the PPMA file format: [Portable Pixel Map (ASCII)](https://people.sc.fsu.edu/~jburkardt/data/ppma/ppma.html)
